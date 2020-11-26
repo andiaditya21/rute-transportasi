@@ -1,7 +1,14 @@
 import React from "react";
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import Home from "./Component/Home/Home";
+import "./App.css";
 
 function App() {
-  return <h1>Rebuild website</h1>;
+  return (
+    <Router>
+      <Route path="/" component={Home} />
+    </Router>
+  );
 }
 
 export default App;

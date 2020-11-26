@@ -1,0 +1,80 @@
+.navbar,
+.carousel,
+footer {
+    background-color: #848484 !important;
+}
+
+.nav-item a {
+    color: white !important;
+    margin-right: 30px;
+}
+
+ul .nav-item.active a {
+    color: #FF9800 !important;
+    font-weight: 500;
+}
+
+.caption {
+    margin-top: 140px;
+}
+
+.caption h4,
+.search-trip h4,
+.carousel-news h4 {
+    font-family: 'Lora';
+    /* font-weight: 300; */
+}
+
+.search-trip {
+    box-shadow: 0 0 8px rgba(0, 0, 0, .25);
+    border-radius: 10px;
+}
+
+.section-2,
+.section-3,
+.section-4,
+.section-5,
+.footer {
+    margin-top: 60px;
+}
+
+.search-trip,
+.why-choose-us,
+.card-wcu {
+    background-color: #FF9800;
+}
+
+/* .why-choose-us {
+    height: 450px;
+} */
+
+.why-choose-us p {
+    font-weight: 300;
+}
+
+.card {
+    border: none;
+}
+
+.star-orange {
+    color: #FF9800;
+}
+
+footer p {
+    margin: 15px 0 15px 0;
+}
+
+
+/* Trip */
+.advance {
+position: relative;
+}
+
+.trip {
+    position: absolute;
+    width: 450px;
+    bottom: 0;
+    left: 0;
+}
+
+/* MASIH ERROR ANTARA CAROUSEL DAN TRIP */
