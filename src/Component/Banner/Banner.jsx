@@ -20,13 +20,13 @@ export default class Banner extends Component {
                             <div className="carousel-item active">
                                 <div className="row justify-content-between text-center">
                                     <div className="col-md py-2">
-                                    <img src={Img_30} className="img-fluid" alt="..." />
+                                    <img src={Img_30} className="img-fluid" style={{height: 250}} alt="..." />
                                     </div>
                                     <div className="col-md py-2">
-                                    <img src={Img_31} className="img-fluid" alt="" />
+                                    <img src={Img_31} className="img-fluid" style={{height: 250}} alt="" />
                                     </div>
                                     <div className="col-md py-2">
-                                    <img src={Img_32}className="img-fluid" alt="" />
+                                    <img src={Img_32}className="img-fluid" style={{height: 250}} alt="" />
                                     </div>
                                 </div>
                                 <div className="caption-carousel mt-3 mb-5 text-center">

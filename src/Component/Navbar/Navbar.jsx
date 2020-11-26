@@ -20,7 +20,7 @@ export default function Navbar() {
                             <a className="nav-link" href="#">Home</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Layanan</a>
+                            <a className="nav-link" href="#layanan">Layanan</a>
                         </li>
                         <li className="nav-item">
                             <a className="nav-link" href="#">Review</a>
