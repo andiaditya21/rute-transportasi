@@ -30,7 +30,7 @@ export default class Banner extends Component {
                                     </div>
                                 </div>
                                 <div className="caption-carousel mt-3 mb-5 text-center">
-                                    <h4>Yogyakrta</h4>
+                                    <h4>Yogyakarta</h4>
                                     <p className="">Yogyakarta menjunjung tinggi adat-istiadat dan terkenal ramah tamah</p>
                                 </div>
                             </div>

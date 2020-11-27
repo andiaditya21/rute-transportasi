@@ -29,7 +29,7 @@ export default function Navbar() {
                             <a className="nav-link" href="#">Bantuan</a>
                         </li>
                         </ul>
-                        <a href="" className="nav-link text-white pl-0"><i class="fas fa-globe mr-2"></i>Bahasa Indonesia</a>
+                        <a href="" className="nav-link text-white pl-0"><i className="fas fa-globe mr-2"></i>Bahasa Indonesia</a>
                     </div>
                 </div>
             </nav>
