@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
-import Vector_01 from '../../asset/ilustrasi/Croods Mobile.png'
+import { Link } from 'react-router-dom'
 
+import Vector_01 from '../../asset/ilustrasi/Croods Mobile.png'
 
 export default class Layanan extends Component {
     render() {
@@ -41,8 +42,8 @@ export default class Layanan extends Component {
                                 </select>
                                 </div>
                             </div>
-                            <a href="#" role="button" className="btn btn-light btn-block mb-3"><i
-                                className="fas fa-search mr-2"></i>Search</a>
+                            <Link to="/route-trip" role="button" className="btn btn-light btn-block mb-3"><i
+                                className="fas fa-search mr-2"></i>Search</Link>
                             </form>
                         </div>
                     </div>
